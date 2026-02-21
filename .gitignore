@@ -1,0 +1,11 @@
+# Strict Privacy Filter for Obsidian Libraries
+.obsidian/
+.DS_Store
+workspace.json
+*.json
+!library.json
+
+# Mobile-specific sync files
+.sync/
+.icloud/
+.trash/
