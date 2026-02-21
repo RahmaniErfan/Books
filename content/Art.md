@@ -1,0 +1,5 @@
+---
+parent: ["[[Genres]]"]
+---
+# Art
+The expression or application of human creative skill and imagination.

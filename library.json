@@ -1,11 +1,11 @@
 {
-  "id": "my-library-slug",
-  "name": "My Abstract Library",
-  "author": "Your Name",
-  "description": "A professional library for Abstract Folder.",
+  "id": "books-collection",
+  "name": "Books Collection",
+  "author": "RahmaniErfan",
+  "description": "A curated collection of books across various fields, demonstrating advanced virtual hierarchies.",
   "version": "1.0.0",
-  "category": "General",
-  "repository": "https://github.com/your-username/abstract-library-template",
+  "category": "Academic",
+  "repository": "https://github.com/RahmaniErfan/Books",
   "minAbstractVersion": "2.0.0",
-  "fundingUrl": "https://github.com/sponsors/your-username"
+  "fundingUrl": "https://github.com/sponsors/RahmaniErfan"
 }
