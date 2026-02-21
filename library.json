@@ -7,5 +7,8 @@
   "category": "Academic",
   "repository": "https://github.com/RahmaniErfan/Books",
   "minAbstractVersion": "2.0.0",
-  "fundingUrl": "https://github.com/sponsors/RahmaniErfan"
+  "fundingUrl": "https://github.com/sponsors/RahmaniErfan",
+  "parentProperty": "Parent",
+  "childrenProperty": "children",
+  "forceStandardProperties": false
 }
