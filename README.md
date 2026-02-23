@@ -17,9 +17,13 @@ To install this library into your Obsidian vault:
 2. Navigate to **Abstract Folder** > **Library Catalog**.
 3. Click **View Catalog** and then navigate to **Manage Catalogs**.
 4. Under **Manage Standalone Library**, paste the URL of this repository:
-   `https://github.com/your-username/abstract-library-template`
+   `https://github.com/RahmaniErfan/Books`
    and click add.
 5. This library will now appear in your **Abstract View**.
+
+## For Curators (Engine 2)
+Do NOT use `library.json` to trigger updates. When you want to push new notes to your subscribers, you must bump the version and timestamp inside `manifest.json`.
+
 
 ---
 *Created with the [Abstract Library Template](https://github.com/RahmaniErfan/abstract-library-template)*
