@@ -10,3 +10,4 @@ workspace.json
 .sync/
 .icloud/
 .trash/
+_recovered/
