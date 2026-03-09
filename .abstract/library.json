@@ -1,0 +1,13 @@
+{
+  "id": "books-collection",
+  "name": "Books Collection",
+  "author": "RahmaniErfan",
+  "description": "A curated collection of books across various fields, demonstrating advanced virtual hierarchies.",
+  "version": "1.0.0",
+  "category": "Academic",
+  "minAbstractVersion": "2.0.0",
+  "fundingUrl": "https://github.com/sponsors/RahmaniErfan",
+  "topics": [
+    "Books"
+  ]
+}

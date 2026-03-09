@@ -1,0 +1,7 @@
+{
+  "propertyNames": {
+    "parent": ["Parent"],
+    "children": ["children"]
+  },
+  "forceStandardProperties": false
+}
