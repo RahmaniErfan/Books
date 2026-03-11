@@ -1,12 +1,14 @@
-# My Abstract Library
-A professional, boilerplate structure for sharing knowledge libraries via the Abstract Folder Obsidian plugin.
-
-[![GitHub Sponsor](https://img.shields.io/badge/sponsor-me-orange.svg?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/your-username)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/your-username)
-[![Wise](https://img.shields.io/badge/Wise-00b9ff?style=flat-square&logo=wise&logoColor=white)](https://wise.com/pay/me/your-username)
+# Books Sample Library
+This is a sample library created to demonstrate what knowledge libraries can look like within the Abstract Folder ecosystem. It serves as a real-world example of how to structure a digital library for the Abstract Folder Obsidian plugin.
 
 ## Content Overview
-This vault is structured to leverage the "Abstract Folder" plugin's virtual hierarchy. By using the `parent` property in your note's frontmatter, you can organize your knowledge without being constrained by the physical file system.
+This library includes a curated collection of notes spanning various genres and authors, including:
+- **Software**: *Clean Code* by Robert Martin
+- **Philosophy**: *Meditations* by Marcus Aurelius
+- **Art**: *The Story of Art* by E.H. Gombrich
+- **Fiction**: *Palace Walk* by Naguib Mahfouz and *The Blind Owl* by Sadegh Hedayat
+
+It is designed to showcase the "Abstract Folder" plugin's virtual hierarchy. By using the `parent` property in your note's frontmatter, you can organize your knowledge (like these books) without being constrained by the physical file system.
 
 
 
